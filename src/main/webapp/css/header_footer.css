@@ -1,0 +1,24 @@
+header {
+	position: relative;
+	background-color: #272727;
+	color: #fff;
+	border-radius: 8px;
+
+}
+
+.header-title {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0px;
+}
+
+.footer {
+	width: 100%;
+	margin-top: 0px;
+	background-color: #272727;
+	text-align: center;
+	border-radius: 8px;
+	color: white;
+	padding: 10px 0px;
+}
